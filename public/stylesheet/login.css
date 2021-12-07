@@ -1,0 +1,18 @@
+#content-box{
+    border: 1px solid black;
+    width: 50%;
+    margin: 5% 25%;
+}
+.content{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+   padding: 25px;
+}
+.img-con{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+
